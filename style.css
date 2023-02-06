@@ -3,7 +3,7 @@ body {
     font-family: 'Avenir', Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #004851;
+    background-color: #00a794;
     width: 100%;
   }
    
@@ -13,10 +13,11 @@ body {
   h1 {
     text-align: center;
     font-size: 50px;
-    padding-top: 10px;
-    padding-right: 30px;
-    padding-bottom: 10px;
-    padding-left: 30px;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 25px;
   }
 
   h2 {
@@ -51,5 +52,14 @@ body {
     text-align: center;
     position: absolute;
     bottom: 0;
+    width: 100%;
+  }
+
+  header {
+    color: #000000;
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    top: 0;
     width: 100%;
   }
